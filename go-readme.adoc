@@ -2,7 +2,7 @@
 
 === 1:1s
 ==== Objective
-1:1s are your meetings. A time for you to share, raise topics or questions you otherwise can’t or don’t feel comfortable doing.
+1:1s are your meetings. A time for you to share topics, ask questions that are on your mind. Especially things you can't (easily) discuss in another forum or with someone else. You should never feel like you have to wait for 1:1s for us to discuss things, but they serve as regular checkpoints.
 
 ==== Agenda
 You set the agenda ahead of time, in our shared doc. In the absence of specifics, we can default to:
